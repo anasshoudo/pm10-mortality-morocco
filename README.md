@@ -8,7 +8,6 @@ concentration-response functions.
 
 ## Contents
 - `pm10_mortality_risk_analysis.ipynb` — main analysis notebook
-- [plot utility files, if included]
 
   
 

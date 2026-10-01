@@ -10,10 +10,19 @@ concentration-response functions.
 - `pm10_mortality_risk_analysis.ipynb` — main analysis notebook
 - [plot utility files, if included]
 
+  
 
 ## Citation
-If you use this code, please cite:
-[full citation — add once published, with DOI]
+
+**Article:**
+Houdou, A., et al. (2026). Estimation of Mortality Attributable to Particulate
+Matter (PM10) Exposure in Morocco in 2021. *GeoHealth*. [DOI once published]
+
+**Code:**
+Houdou, A. (2026). pm10-mortality-morocco [Software]. Zenodo.
+https://doi.org/[your Zenodo DOI]
+
+
 
 ## License
 MIT

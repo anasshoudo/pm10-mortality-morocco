@@ -1,7 +1,3 @@
-# pm10-mortality-morocco
-Estimating long-term mortality attributable to PM10 exposure across Moroccan regions (2021) using CAMS reanalysis data and the WHO AirQ+ model.
-
-
 # PM10-Attributable Mortality in Morocco (2021)
 
 Code accompanying Houdou et al., "Estimation of Mortality Attributable to

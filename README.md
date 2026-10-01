@@ -17,10 +17,6 @@ concentration-response functions.
 Houdou, A., et al. (2026). Estimation of Mortality Attributable to Particulate
 Matter (PM10) Exposure in Morocco in 2021. *GeoHealth*. [DOI once published]
 
-**Code:**
-Houdou, A. (2026). pm10-mortality-morocco [Software]. Zenodo.
-https://doi.org/[your Zenodo DOI]
-
 
 
 ## License
